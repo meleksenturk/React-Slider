@@ -1,0 +1,36 @@
+
+.personInfoDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.personImageDiv img{
+   
+    border-radius: 50%;
+}
+.personImageDiv{
+    background-color: rgb(204, 161, 204);
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.personInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+
+.personInfo h4{
+    color: rgb(204, 161, 204);
+    font-weight: 600;
+}
+
+.personInfo{
+    display: flex;
+    width: 600px;
+    justify-content: center;
+}
